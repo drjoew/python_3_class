@@ -1,0 +1,1 @@
+"""This is a multi-line commentYou put some text here explaining the purpose the program."""print ("This is an example program")i=2print(i)print("i equals: ", i)# For loop in the example (example comment)for i in range (0, 12):	i_squared = i*i	print("i is ", i, "\tand i squared is ",i_squared)# end of for loopprint("end of loop") 
